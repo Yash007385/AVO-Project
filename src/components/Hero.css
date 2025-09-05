@@ -1,0 +1,18 @@
+.hero-container {
+  background: url('tunnel.jpg') no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  padding: 2rem;
+  position: relative;
+}
+
+.hero-content {
+  margin-top: 5rem;
+}
+
+.play-button {
+  position: absolute;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
