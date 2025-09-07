@@ -1,5 +1,5 @@
 .hero-container {
-  background: url('tunnel.jpg') no-repeat center center;
+  background: url('/tunnel.jpg') no-repeat center center;
   background-size: cover;
   height: 100vh;
   padding: 2rem;
